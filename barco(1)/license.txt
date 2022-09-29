@@ -1,0 +1,11 @@
+Model Information:
+* title:	Barco
+* source:	https://sketchfab.com/3d-models/barco-464f6f348aaa4d00aca5e5d8e4370c53
+* author:	quirell (https://sketchfab.com/quirell)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Barco" (https://sketchfab.com/3d-models/barco-464f6f348aaa4d00aca5e5d8e4370c53) by quirell (https://sketchfab.com/quirell) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Islas LowPoly
+* source:	https://sketchfab.com/3d-models/islas-lowpoly-b3e5ab4ce7d44d95b7292b46c38231a0
+* author:	ArchEnemy33 (https://sketchfab.com/ArchEnemy33_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Islas LowPoly" (https://sketchfab.com/3d-models/islas-lowpoly-b3e5ab4ce7d44d95b7292b46c38231a0) by ArchEnemy33 (https://sketchfab.com/ArchEnemy33_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
